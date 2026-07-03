@@ -75,12 +75,14 @@ Automated Risk Report
 * Stress Testing 
 * Sensitivity analysis 
   
- <img width="2248" height="1657" alt="var_report" src="https://github.com/user-attachments/assets/0ec747c3-0eca-4c3e-8b3a-af1c4f620d37" />
+ <img width="2248" height="1657" alt="var_report_light" src="https://github.com/user-attachments/assets/3c81a0ad-b31e-4b13-bc82-2cf573403d8f" />
+
 
 
 * Heat map (Hull-white)
   
-<img width="1523" height="881" alt="heatmap_alpha_sigma" src="https://github.com/user-attachments/assets/74c18d0a-1fb8-4c4e-bf32-83c92b1621d3" />
+<img width="1523" height="881" alt="heatmap_alpha_sigma_light" src="https://github.com/user-attachments/assets/3708e226-4da3-4a4f-a49a-b89069c9d579" />
+
 
 
 ## Technology Stack
