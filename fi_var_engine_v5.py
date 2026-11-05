@@ -1,5 +1,5 @@
 """
-Fixed Income VaR & Backtesting Engine  v3.2
+Fixed Income Risk Analytics & Backtesting Platform  v3.2
 ============================================
 Run:  python3 fi_var_engine_v3.2.py
 
