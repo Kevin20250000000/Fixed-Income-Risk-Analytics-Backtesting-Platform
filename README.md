@@ -1,4 +1,8 @@
-# Fixed Income VaR & Backtesting Engine
+# Fixed Income Risk Analytics & Backtesting Platform 
+
+
+<img width="432" height="13" alt="image" src="https://github.com/user-attachments/assets/45d6302b-4cd1-4f6e-83a9-c8a3d304b269" />
+
 
 Production-style fixed income market risk engine implementing Hull-White and Vasicek interest-rate models, Monte Carlo simulation, VaR/CVaR analytics, Basel backtesting, and SR 11-7 model validation.
 
