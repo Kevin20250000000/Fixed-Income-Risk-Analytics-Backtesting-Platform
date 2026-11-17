@@ -62,19 +62,34 @@ flowchart TD
 
 ## Charts
 
-All charts are saved separately to `charts/`.
 
-| Chart | Description |
-|-------|-------------|
-| ![](charts/01_pnl_distribution.png) | Portfolio 1-day P&L distribution with VaR / CVaR |
-| ![](charts/02_rate_paths.png) | Simulated short-rate paths |
-| ![](charts/03_stress_tests.png) | Stress test P&L impact |
-| ![](charts/04_var_sensitivity.png) | Parameter sensitivity (ΔVaR) |
-| ![](charts/05_var_backtest.png) | Realized P&L vs 99% VaR |
-| ![](charts/06_krd_profile.png) | Key rate duration profile |
-| ![](charts/07_kr01_profile.png) | Key rate DV01 (KR01) |
-| ![](charts/08_var_heatmap.png) | α × σ VaR sensitivity heatmap |
-| ![](charts/09_backtest_robustness.png) | Exceptions across 30 backtest samples |
+
+### Portfolio 1-Day P&L Distribution with VaR / CVaR
+![P&L Distribution](01_pnl_distribution.png)
+
+### Simulated Short-Rate Paths
+![Rate Paths](02_rate_paths.png)
+
+### Stress Test P&L Impact
+![Stress Tests](03_stress_tests.png)
+
+### Parameter Sensitivity (ΔVaR)
+![VaR Sensitivity](04_var_sensitivity.png)
+
+### Realized P&L vs 99% VaR
+![VaR Backtest](05_var_backtest.png)
+
+### Key Rate Duration Profile
+![KRD Profile](06_krd_profile.png)
+
+### Key Rate DV01 (KR01)
+![KR01 Profile](07_kr01_profile.png)
+
+### α × σ VaR Sensitivity Heatmap
+![VaR Heatmap](08_var_heatmap.png)
+
+### Backtest Robustness: Exceptions across 30 Samples
+![Backtest Robustness](09_backtest_robustness.png)
 
 ---
 
